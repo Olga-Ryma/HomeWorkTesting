@@ -1,0 +1,4 @@
+INSERT INTO DEPTB (DEPTID, DEPTNAME) VALUES
+('10', 'QA'),
+('20', 'DEV'),
+('30', 'IT');
