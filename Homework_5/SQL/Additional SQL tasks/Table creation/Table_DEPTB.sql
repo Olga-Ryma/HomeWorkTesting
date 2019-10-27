@@ -1,0 +1,3 @@
+CREATE TABLE DEPTB (
+  DEPTID  int,
+  DEPTNAME  varchar(50));
