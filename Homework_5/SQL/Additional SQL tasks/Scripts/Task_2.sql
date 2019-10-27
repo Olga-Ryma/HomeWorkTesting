@@ -1,0 +1,1 @@
+SELECT max(salary) FROM empa WHERE salary < (SELECT max(salary) FROM empa);
